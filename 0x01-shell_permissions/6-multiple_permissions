@@ -1,4 +1,2 @@
 #!/bin/bash
-chmod ug+x, -rwxr-xr--
-#!/bin/bash
 u+x, g+x,o+r hello
